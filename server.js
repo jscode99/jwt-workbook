@@ -8,18 +8,18 @@ app.use(express.json());
 
 const posts = [
   {
-    name: "Jishnu Satheesh",
-    age: "25",
-    job: "Commander - Special agent RAW",
+    name: "Tom Cruise",
+    age: "38",
+    job: "Special agent RAW - Commander",
   },
   {
-    name: "Dilli Das",
+    name: "jennifer lawrence",
     age: "35",
-    job: "Sniper RAW",
+    job: "Special agent RAW - Sniper",
   },
   {
-    name: "Kareena kapoor",
-    age: "25",
+    name: "Alexandra Daddario",
+    age: "28",
     job: "Special agent RAW",
   },
   {
@@ -30,7 +30,7 @@ const posts = [
   {
     name: "Blake Lively",
     age: "30",
-    job: "Special agent RAW",
+    job: "Special agent RAW - Comm.",
   },
 ];
 
